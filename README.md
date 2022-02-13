@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sa25nad
-- 👀 I’m interested in Mobile programming 
-- 🌱 I’m currently learning Dart & Flutter
+- 👀 I’m interested in ML - Data Science. 
+- 🌱 I’m currently Studing CS at Cairo University.
 - 💞️ I’m looking to a mentor to guide me through my learning journey.
 - 📫 How to reach me on sa25nad@gmail.com
 
