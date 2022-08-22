@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Sa25nad
-- 👀 I’m interested in ML - Data Science. 
-- 🌱 I’m currently Studing CS at Cairo University.
+
+ - With over 9 years of experience in the tourism and hospitality industries, I am planning to enter the data world with passion and power.
+
+ - I am a CS student at ISSR Cairo focused on the DS and ML applications in the same domain of business travel. 
+
 - 💞️ I’m looking to a mentor to guide me through my learning journey.
 - 📫 How to reach me on sa25nad@gmail.com
 
